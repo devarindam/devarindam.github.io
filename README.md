@@ -1,6 +1,11 @@
-#Electrical Engineer
+# Electrical Engineer
 
-##Education
+### Education
+Electrical & Electronic Engineering, BSc
 
+### Work Experience
+Sub-Divisional Engineer, Power Grid Bangladesh PLC
 
-##Work Experience
+### Thesis
+
+### Projects
