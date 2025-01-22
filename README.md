@@ -38,7 +38,7 @@ trolled Prostheses for Transradial Amputees (For EEE 400: Project/Thesis)
 
 ### Technical Skills
 **Programming Language**
-1. C/C++      2. Matlab      3. Python      4. Verilog      5. Assembly
+1. C/C++     2. Matlab     3. Python     4. Verilog    5. Assembly
 
 **Simulation Tool**
 1. Cadence Virtuoso    2. Proteus    3. Orcad    4. Quartus
