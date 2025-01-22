@@ -5,10 +5,24 @@ Electrical & Electronic Engineering, BSc
 
 ### Work Experience
 1. **Sub-Divisional Engineer, Power Grid Bangladesh PLC**\
-Period: June, 2022 - Ongoing\
-Workstation: Bheramara 230/132kV Grid Substation, Kushtia\
-Activities: Maintenance of transformer, circuit breaker etc, testing stability of substation DC power sources, maintenance & troubleshooting of Substation Automation System (SAS) with Bay Control Unit (BCU), load and voltage control of substation, maintenance of protective relays. 
+  Period: June, 2022 - Ongoing\
+  Workstation: Bheramara 230/132kV Grid Substation, Kushtia\
+  Activities: Maintenance and testing of transformer, circuit breaker and other equipments, testing stability of substation DC power sources, maintenance & troubleshooting of Substation Automation System (SAS) with Bay Control Unit (BCU), load and voltage control of substation, maintenance of protective relays. 
 
+2. **Assistant Engineer, Power Grid Bangladesh PLC**\
+   Period: July, 2018 - June, 2022\
+   Workstation: Bheramara 230/132kV Grid Substation, Bheramara 132/33kV
+Grid Substation, Kushtia\
+
+3. **Assistant Engineer, Northern Electricity Supply PLC**\
+   Period: March, 2018 - June, 2022\
+   Workstation: Supply & Distribution Center, Pabna Division-2\
+   Activities: Maintenance of 33/11 kV substation, testing of distribution transformers, load balancing of distribution transformers, maintenance of protective relays.
+
+4. **Lecturer, Sonargaon University**\
+   Period: September, 2017 - March, 2018\
+   Activities: Conducting classes (Course Name: Electrical Circuits Fundamentals, Electrical Machine Fundamentals, Computer Programming, Communication System I), Advising students, Conducting laboratory experiments etc.   
+   
 ### Thesis
 Classification of Hand Gestures with Force Variation of SEMG Con-
 trolled Prostheses for Transradial Amputees (For EEE 400: Project/Thesis)
