@@ -60,3 +60,14 @@ Test Date: October 14, 2024
 3. **TOEFL:**\
 Result: [Total - 102](https://drive.google.com/file/d/1SOSUU1IAj-MiKssF4xNMHKbvoTlo06cG/view?usp=drive_link), Reading - 29, Listening - 23, Speaking - 23, Writing - 27\
 Test Date: January 04, 2025
+
+## Training
+1. Operation, Maintenance of Substation Automation System (Energypac Limited, Bangladesh)
+2. On-Load Tap Changer of Power Transformer (Maschinenfabrik Reinhausen, Germany)
+3. Public Procurement Management (Central Procurement Technical Unit, IMED, Ministry of Planning, Govt. of People’s Republic of Bangladesh)
+
+## Research Interest
+1. Digital Signal Processing
+2. Power System & Grid Network
+3. Machine Learning & Neural Network
+4. Data Analysis
