@@ -5,6 +5,9 @@ Electrical & Electronic Engineering, BSc
 
 ### Work Experience
 Sub-Divisional Engineer, Power Grid Bangladesh PLC
+Period: June, 2022 - Ongoing
+Workstation: Bheramara 230/132kV Grid Substation, Kushtia
+Activities: Maintenance of transformer, circuit breaker etc, testing stability of substation DC power sources, maintenance & troubleshooting of Substation Automation System (SAS) with Bay Control Unit (BCU), load and voltage control of substation, maintenance of protective relays 
 
 ### Thesis
 Classification of Hand Gestures with Force Variation of SEMG Con-
