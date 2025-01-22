@@ -36,3 +36,16 @@ trolled Prostheses for Transradial Amputees (For EEE 400: Project/Thesis)
 2. Design and Simulation of a 4 Bit ALU Capable of Executing 16 Instruc-
 tions Using Proteus (For EEE 303 : Digital Electronics)
 3. Digital Alarm Clock (For EEE 304 : Digital Electronics Laboratory)
+
+### Technical Skills
+**Programming Language**
+1. C/C++      2. Matlab      3. Python      4. Verilog      5. Assembly
+
+**Simulation Tool**
+1. Cadence Virtuoso    2. Proteus    3. Orcad    4. Quartus
+
+**Software**
+1. Microsoft Office    2. Microsoft Project
+
+**Operating System**
+1. Windows    2. Linux    3. MacOs
