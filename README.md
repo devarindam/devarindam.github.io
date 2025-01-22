@@ -37,14 +37,14 @@ trolled Prostheses for Transradial Amputees (For EEE 400: Project/Thesis)
 3. Digital Alarm Clock (For EEE 304 : Digital Electronics Laboratory)
 
 ### Technical Skills
-**Programming Language**
-1. C/C++ &emsp;    2. Matlab   &emsp;  3. Python &emsp;    4. Verilog   &emsp; 5. Assembly
+&emsp;  **Programming Language**
+&emsp;  1. C/C++ &emsp;    2. Matlab   &emsp;  3. Python &emsp;    4. Verilog   &emsp; 5. Assembly
 
-**Simulation Tool**
-1. Cadence Virtuoso  &emsp;  2. Proteus  &emsp;  3. Orcad  &emsp;  4. Quartus
+&emsp;  **Simulation Tool**
+&emsp;  1. Cadence Virtuoso  &emsp;  2. Proteus  &emsp;  3. Orcad  &emsp;  4. Quartus
 
-**Software**
-1. Microsoft Office  &emsp;  2. Microsoft Project
+&emsp;  **Software**
+&emsp;  1. Microsoft Office  &emsp;  2. Microsoft Project
 
-**Operating System**
-1. Windows &emsp;   2. Linux  &emsp;  3. MacOs
+&emsp;  **Operating System**
+&emsp;  1. Windows &emsp;   2. Linux  &emsp;  3. MacOs
