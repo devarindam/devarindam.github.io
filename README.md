@@ -38,7 +38,7 @@ Classification of Hand Gestures with Force Variation of SEMG Controlled Prosthes
 
 ## Technical Skills
 &emsp;  **Programming Language**\
-&emsp;  1. C/C++ &emsp;    2. Matlab   &emsp;  3. Python &emsp;    4. Verilog   &emsp; 5. Assembly
+&emsp;  1. C/C++ &emsp;    2. Matlab   &emsp;  3. Python &emsp;    4. Verilog   &emsp; 5. Assembly &emsp; 6. Latex
 
 &emsp;  **Simulation Tool**\
 &emsp;  1. Cadence Virtuoso  &emsp;  2. Proteus  &emsp;  3. Orcad  &emsp;  4. Quartus
