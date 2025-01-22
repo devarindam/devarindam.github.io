@@ -25,7 +25,7 @@ Grid Substation, Kushtia\
    Activities: Conducting classes (Course Name: Electrical Circuits Fundamentals, Electrical Machine Fundamentals, Computer Programming, Communication System I), Advising students, Conducting laboratory experiments etc.   
    
 ## Thesis
-Classification of Hand Gestures with Force Variation of SEMG Controlled Prostheses for Transradial Amputees (For EEE 400: Project/Thesis)
+Classification of Hand Gestures using SEMG Signals with Force Variation for Transradial Amputees (For EEE 400: Project/Thesis)
 
 ## Projects
 
@@ -35,6 +35,9 @@ Classification of Hand Gestures with Force Variation of SEMG Controlled Prosthes
 4. Fault Current Analysis (For EEE 306 : Power System 1 Laboratory)
 5. Design and Simulation of a 8 Bit Computer Capable of Executing 16 Instructions Using Proteus (For EEE 315 : Microprocessor and Interfacing)
 6. [Laser Guided Robot](https://youtu.be/EHEGDKUKCOA) (For EEE 402 : Control System 1 Laboratory)
+7. Circuit, Layout Design and Simulation of 4 Bit ALU with Shifter Using Cadence Virtuoso (For EEE 454 : VLSI 1 Laboratory)
+8. Circuit, Layout Design and Simulation of 4 Bit Comparator with Cascadable Comparator Cells (For EEE 458: VLSI 2 Laboratory)
+9. Automatic Wireless Health-monitoring System (Heart Rate & Bodytemparature Monitoring For Remote Patients) (For EEE 426 : Biomedical Instrumentation Laboratory)
 
 ## Technical Skills
 &emsp;  **Programming Language**\
@@ -48,3 +51,11 @@ Classification of Hand Gestures with Force Variation of SEMG Controlled Prosthes
 
 &emsp;  **Operating System**\
 &emsp;  1. Windows &emsp;   2. Linux  &emsp;  3. MacOs
+
+## Standardized Test Results
+1. **GRE:**\
+Result: [Total - 315](https://drive.google.com/file/d/16wgVHKKkfLA8gWXcP8YgmmtNp1YftoVF/view?usp=drive_link), Quantitative Reasoning - 170 (92nd Percentile), Verbal Reasoning - 145 (21st Percentile), Analytical Writing - 3.5 (41st Percentile)\
+Test Date: October 14, 2024
+3. **TOEFL:**\
+Result: [Total - 102](https://drive.google.com/file/d/1SOSUU1IAj-MiKssF4xNMHKbvoTlo06cG/view?usp=drive_link), Reading - 29, Listening - 23, Speaking - 23, Writing - 27\
+Test Date: January 04, 2025
