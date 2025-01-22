@@ -1,7 +1,8 @@
 ## Education
 **Bachelor of Science in Electrical and Electronic Engineering**\
 Institution: Bangladesh University of Engineering and Technology\
-Period: May, 2012 - February, 2017
+Period: May, 2012 - February, 2017\
+Result: CGPA 3.65/4.00
 
 ## Work Experience
 1. **Sub-Divisional Engineer, Power Grid Bangladesh PLC**\
