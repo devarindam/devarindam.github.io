@@ -27,14 +27,16 @@ Grid Substation, Kushtia\
    Activities: Conducting classes (Course Name: Electrical Circuits Fundamentals, Electrical Machine Fundamentals, Computer Programming, Communication System I), Advising students, Conducting laboratory experiments etc.   
    
 ## Thesis
-Classification of Hand Gestures with Force Variation of SEMG Con-
-trolled Prostheses for Transradial Amputees (For EEE 400: Project/Thesis)
+Classification of Hand Gestures with Force Variation of SEMG Controlled Prostheses for Transradial Amputees (For EEE 400: Project/Thesis)
 
 ## Projects
 
 1. Projectile Motion under Damping Medium (For EEE 212 : Numerical Technique Laboratory)
 2. Design and Simulation of a 4 Bit ALU Capable of Executing 16 Instructions Using Proteus (For EEE 303 : Digital Electronics)
 3. Digital Alarm Clock (For EEE 304 : Digital Electronics Laboratory)
+4. Fault Current Analysis (For EEE 306 : Power System 1 Laboratory)
+5. Design and Simulation of a 8 Bit Computer Capable of Executing 16 Instructions Using Proteus (For EEE 315 : Microprocessor and Interfacing)
+6. [Laser Guided Robot](https://youtu.be/EHEGDKUKCOA) (For EEE 402 : Control System 1 Laboratory)
 
 ## Technical Skills
 &emsp;  **Programming Language**\
