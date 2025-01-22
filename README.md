@@ -1,5 +1,3 @@
-# Electrical Engineer
-
 ## Education
 **Bachelor of Science in Electrical and Electronic Engineering**\
 Institution: Bangladesh University of Engineering and Technology\
