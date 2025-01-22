@@ -12,7 +12,7 @@ Electrical & Electronic Engineering, BSc
 2. **Assistant Engineer, Power Grid Bangladesh PLC**\
    Period: July, 2018 - June, 2022\
    Workstation: Bheramara 230/132kV Grid Substation, Bheramara 132/33kV
-Grid Substation, Kushtia\
+Grid Substation, Kushtia
 
 3. **Assistant Engineer, Northern Electricity Supply PLC**\
    Period: March, 2018 - June, 2022\
