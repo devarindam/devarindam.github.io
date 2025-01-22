@@ -1,11 +1,11 @@
 # Electrical Engineer
 
-### Education
+## Education
 **Bachelor of Science in Electrical and Electronic Engineering**\
 Institution: Bangladesh University of Engineering and Technology\
 Period: May, 2012 - February, 2017
 
-### Work Experience
+## Work Experience
 1. **Sub-Divisional Engineer, Power Grid Bangladesh PLC**\
   Period: June, 2022 - Ongoing\
   Workstation: Bheramara 230/132kV Grid Substation, Kushtia\
@@ -26,17 +26,17 @@ Grid Substation, Kushtia\
    Period: September, 2017 - March, 2018\
    Activities: Conducting classes (Course Name: Electrical Circuits Fundamentals, Electrical Machine Fundamentals, Computer Programming, Communication System I), Advising students, Conducting laboratory experiments etc.   
    
-### Thesis
+## Thesis
 Classification of Hand Gestures with Force Variation of SEMG Con-
 trolled Prostheses for Transradial Amputees (For EEE 400: Project/Thesis)
 
-### Projects
+## Projects
 
 1. Projectile Motion under Damping Medium (For EEE 212 : Numerical Technique Laboratory)
 2. Design and Simulation of a 4 Bit ALU Capable of Executing 16 Instructions Using Proteus (For EEE 303 : Digital Electronics)
 3. Digital Alarm Clock (For EEE 304 : Digital Electronics Laboratory)
 
-### Technical Skills
+## Technical Skills
 &emsp;  **Programming Language**\
 &emsp;  1. C/C++ &emsp;    2. Matlab   &emsp;  3. Python &emsp;    4. Verilog   &emsp; 5. Assembly
 
