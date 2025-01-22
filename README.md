@@ -7,5 +7,7 @@ Electrical & Electronic Engineering, BSc
 Sub-Divisional Engineer, Power Grid Bangladesh PLC
 
 ### Thesis
+####Classification of Hand Gestures with Force Variation of SEMG Con-
+trolled Prostheses for Transradial Amputees
 
 ### Projects
