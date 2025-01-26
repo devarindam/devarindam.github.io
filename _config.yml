@@ -4,6 +4,6 @@ logo: Image.jpg
 email: arindam.dev.ad@gmail.com
 description: Electrical Engineer
 show_downloads: false
-google_analytics:
+google_analytics: UA-NNNNNNNN-N
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 copyright: @Arindam Dev
