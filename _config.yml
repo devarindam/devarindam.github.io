@@ -1,6 +1,8 @@
+lang: en-US
 title: Arindam Dev
 logo: Image.jpg
-description: An ambitious and passionate electrical and electronic engineer with more than 6 years of experience in the power industry (including power transmission and distribution), who is highly motivated to embrace new challenges and opportunities in life.
+email: arindam.dev.ad@gmail.com
+description: Electrical Engineer
 show_downloads: false
 google_analytics:
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
