@@ -1,3 +1,5 @@
+Email: arindam.dev.ad@gmail.com
+
 ## Research Interest
 1. Digital Signal Processing
 2. Power System & Grid Network
