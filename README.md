@@ -1,4 +1,4 @@
-Bheramara-7040,Kushtia,Bangladesh | arindam.dev.ad@gmail.com | +8801763774403
+Address: Bheramara-7040,Kushtia,Bangladesh | Email: arindam.dev.ad@gmail.com | Mobile: +8801763774403
 
 ## Research Interest
 1. Digital Signal Processing
