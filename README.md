@@ -75,5 +75,3 @@ Test Date: January 04, 2025
 ## Awards
 1. 1st Prize, 4th Bangladesh Chemistry Olympiad 2011
 2. Regional Champion (Jashore Region), Bangladesh Mathematical Olympiad 2011
-3. Temp
-4. Temp2
