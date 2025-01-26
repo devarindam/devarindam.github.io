@@ -1,3 +1,9 @@
+## Research Interest
+1. Digital Signal Processing
+2. Power System & Grid Network
+3. Machine Learning & Neural Network
+4. Data Analysis
+
 ## Education
 **Bachelor of Science in Electrical and Electronic Engineering**\
 Institution: Bangladesh University of Engineering and Technology\
@@ -53,7 +59,7 @@ Classification of Hand Gestures using SEMG Signals with Force Variation for Tran
 &emsp;  **Operating System**\
 &emsp;  1. Windows &emsp;   2. Linux  &emsp;  3. MacOs
 
-## Standardized Test Results
+## Standard Test Results
 1. **GRE:**\
 Result: [Total - 315](https://drive.google.com/file/d/16wgVHKKkfLA8gWXcP8YgmmtNp1YftoVF/view?usp=drive_link), Quantitative Reasoning - 170 (92nd Percentile), Verbal Reasoning - 145 (21st Percentile), Analytical Writing - 3.5 (41st Percentile)\
 Test Date: October 14, 2024
@@ -66,8 +72,6 @@ Test Date: January 04, 2025
 2. On-Load Tap Changer of Power Transformer (Maschinenfabrik Reinhausen, Germany)
 3. Public Procurement Management (Central Procurement Technical Unit, IMED, Ministry of Planning, Govt. of People’s Republic of Bangladesh)
 
-## Research Interest
-1. Digital Signal Processing
-2. Power System & Grid Network
-3. Machine Learning & Neural Network
-4. Data Analysis
+## Awards
+1. 1st Prize, 4th Bangladesh Chemistry Olympiad 2011
+2. Regional Champion (Jashore Region), Bangladesh Mathematical Olympiad 2011
