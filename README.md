@@ -32,7 +32,7 @@ Grid Substation, Kushtia\
    Activities: Conducting classes (Course Name: Electrical Circuits Fundamentals, Electrical Machine Fundamentals, Computer Programming, Communication System I), Advising students, Conducting laboratory experiments etc.   
    
 ## Thesis
-Classification of Hand Gestures using SEMG Signals with Force Variation for Transradial Amputees (For EEE 400: Project/Thesis)
+1. Classification of Hand Gestures using SEMG Signals with Force Variation for Transradial Amputees (For EEE 400: Project/Thesis)
 
 ## Projects
 
