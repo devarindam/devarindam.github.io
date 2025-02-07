@@ -77,3 +77,8 @@ Test Date: January 04, 2025
 ## Awards
 1. 1st Prize, 4th Bangladesh Chemistry Olympiad 2011
 2. Regional Champion (Jashore Region), Bangladesh Mathematical Olympiad 2011
+
+## Certifications
+1. [Convolutional Neural Network](https://coursera.org/share/f032b77ba8026ff2411d64f3aa1221ec)
+2. [Neural Networks and Deep Learning](https://coursera.org/share/4417c41d087db5a23ce7e85301be4365)
+3. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/dd28f237b558e186db429534b9f83080)
