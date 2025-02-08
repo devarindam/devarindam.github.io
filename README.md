@@ -10,7 +10,7 @@ Address: Bheramara-7040, Kushtia, Bangladesh | Email: [arindam.dev.ad@gmail.com]
 1. **Bachelor of Science in Electrical and Electronic Engineering**\
   Institution: Bangladesh University of Engineering and Technology\
   Period: May, 2012 - February, 2017\
-  Result: CGPA 3.65/4.00
+  Result: CGPA [3.65/4.00](https://drive.google.com/file/d/1HWolOlEgIqwtCh31NTK0MkmYNJbeZ6Jh/view?usp=sharing)
 
 ## Work Experience
 1. **Sub-Divisional Engineer, Power Grid Bangladesh PLC**\
