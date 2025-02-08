@@ -16,7 +16,7 @@ Address: Bheramara-7040, Kushtia, Bangladesh | Email: [arindam.dev.ad@gmail.com]
 1. **Sub-Divisional Engineer, Power Grid Bangladesh PLC**\
   Period: June, 2022 - Ongoing\
   Workstation: Bheramara 230/132kV Grid Substation, Kushtia\
-  Activities: Maintenance and testing of transformer, circuit breaker and other equipments, testing stability of substation DC power sources, maintenance & troubleshooting of Substation Automation System (SAS) with Bay Control Unit (BCU), load and voltage control of substation, maintenance of protective relays. 
+  Activities: Maintenance and testing of transformer, circuit breaker and other equipments, fault data analysis, testing stability of substation DC power sources, maintenance & troubleshooting of Substation Automation System (SAS) with Bay Control Unit (BCU), load and voltage control of substation, maintenance of protective relays. 
 
 2. **Assistant Engineer, Power Grid Bangladesh PLC**\
    Period: July, 2018 - June, 2022\
