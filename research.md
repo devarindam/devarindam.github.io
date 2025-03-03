@@ -1,5 +1,8 @@
 ---
 title: Research
 layout: page
-## Classification of Hand Gestures using SEMG Signals with Force Variation for Transradial Amputees
+image:
+  path: /Image.jpg
 ---
+
+## Classification of Hand Gestures using SEMG Signals with Force Variation for Transradial Amputees
