@@ -10,4 +10,5 @@ layout: page
 - Presented a channel selection algorithm to find the optimal number of channels.
 - Proposed a classification method using SVM along with new feature sets and channel selection algorithm which outperforms other classification method significantly (upto 10%) at high force level.
 
+![Result](thesis_result.png)
 ![ROC](ROC.png)
