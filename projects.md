@@ -23,13 +23,13 @@ Report: <a href="https://drive.google.com/uc?export=download&id=1OqSbmUEo-4TvIuF
         </a>
 
 ## 2. Automatic Wireless Health-monitoring System
-<a href="https://drive.google.com/uc?export=download&id=1Vni5WGoBOu9bfa8YaN72HKMB3xVqpbAe" download>
-  Download PDF
-</a>
+Report: <a href="https://drive.google.com/uc?export=download&id=1Vni5WGoBOu9bfa8YaN72HKMB3xVqpbAe" download>
+        Download PDF
+        </a>
 
 ## 3. Design of a 4 Bit Comparator with Cascadable Comparator Cells
 
-<a href="https://drive.google.com/uc?export=download&id=1yAAAWbdVU-CnXUyG4t25b4Wo22TfN_kh" download>
-  Download PDF
-</a>
+Report: <a href="https://drive.google.com/uc?export=download&id=1yAAAWbdVU-CnXUyG4t25b4Wo22TfN_kh" download>
+        Download PDF
+        </a>
 
