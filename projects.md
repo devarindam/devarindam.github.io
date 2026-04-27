@@ -3,7 +3,7 @@ title: Projects
 layout: page
 ---
 
-## Laser Guided Robot
+## 1. Laser Guided Robot
 
 ### Demonstration
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 40px;">
@@ -24,12 +24,12 @@ layout: page
   Download PDF
 </a>
 
-## Automatic Wireless Health-monitoring System
+## 2. Automatic Wireless Health-monitoring System
 <a href="https://drive.google.com/uc?export=download&id=1Vni5WGoBOu9bfa8YaN72HKMB3xVqpbAe" download>
   Download PDF
 </a>
 
-## Design of a 4 Bit Comparator with Cascadable Comparator Cells
+## 3. Design of a 4 Bit Comparator with Cascadable Comparator Cells
 
 <a href="https://drive.google.com/uc?export=download&id=1yAAAWbdVU-CnXUyG4t25b4Wo22TfN_kh" download>
   Download PDF
