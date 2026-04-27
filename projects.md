@@ -29,7 +29,7 @@ layout: page
   Download PDF
 </a>
 
-## DESIGN OF A 4 BIT COMPARATOR WITH CASCADABLE COMPARATOR CELLS
+## Design of a 4 Bit Comparator with Cascadable Comparator Cells
 
 <a href="https://drive.google.com/uc?export=download&id=1yAAAWbdVU-CnXUyG4t25b4Wo22TfN_kh" download>
   Download PDF
