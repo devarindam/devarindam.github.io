@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Project: Laser Guided Robot
 layout: page
 ---
 
