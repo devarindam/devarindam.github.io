@@ -151,18 +151,6 @@ void loop() {
 
 -----
 
-## 📁 Repository Structure
-
-```
-laser-guided-robot/
-├── image_processing.py     # Python vision + Bluetooth TX (Appendix A)
-├── arduino_motor.ino       # Arduino motor control sketch (Appendix B)
-├── README.md
-└── report/
-    └── project_report.pdf
-```
-
------
 
 ## ⚠️ Limitations
 
@@ -181,23 +169,6 @@ laser-guided-robot/
 
 -----
 
-## 👥 Contributors
-
-|Name                 |Student ID|
-|---------------------|----------|
-|Arindam Dev          |1106040   |
-|Md. Mostafizur Rahman|1106063   |
-|Md. Imtiaz Rashid    |1106053   |
-|Md. Adnan Sakib      |1106059   |
-
-**Supervised by:** Md. Shafiqul Islam & Zabir Ahmed *(Lecturers, BUET)*
-
------
-
-## 📄 License
-
-This project was submitted as academic coursework at BUET. Feel free to reference or build upon it with attribution.
-
 ### Demonstration
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 40px;">
   <iframe
@@ -215,14 +186,14 @@ Report: <a href="https://drive.google.com/uc?export=download&id=1OqSbmUEo-4TvIuF
         Download PDF
         </a>
 
-## 2. Automatic Wireless Health-monitoring System
+## Automatic Wireless Health-monitoring System
 
 
 Report: <a href="https://drive.google.com/uc?export=download&id=1Vni5WGoBOu9bfa8YaN72HKMB3xVqpbAe" download>
         Download PDF
         </a>
 
-## 3. Design of a 4 Bit Comparator with Cascadable Comparator Cells
+## Design of a 4 Bit Comparator with Cascadable Comparator Cells
 
 Report: <a href="https://drive.google.com/uc?export=download&id=1yAAAWbdVU-CnXUyG4t25b4Wo22TfN_kh" download>
         Download PDF
