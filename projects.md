@@ -18,11 +18,9 @@ layout: page
 
 
 
-### Report
-
-<a href="https://drive.google.com/uc?export=download&id=1OqSbmUEo-4TvIuF2snOefLXpir8Asz9i" download>
-  Download PDF
-</a>
+Report: <a href="https://drive.google.com/uc?export=download&id=1OqSbmUEo-4TvIuF2snOefLXpir8Asz9i" download>
+        Download PDF
+        </a>
 
 ## 2. Automatic Wireless Health-monitoring System
 <a href="https://drive.google.com/uc?export=download&id=1Vni5WGoBOu9bfa8YaN72HKMB3xVqpbAe" download>
