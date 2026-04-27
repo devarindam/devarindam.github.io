@@ -16,11 +16,10 @@ layout: page
   </iframe>
 </div>
 
+
+
 ### Report
 
----
-actions:
-  - label: "Download as PDF"
-    icon: pdf
-    url: "https://drive.google.com/uc?export=download&id=1hW7vMLUoJl6U54BYdHWQPwWlB0VijtE0"
----
+<a href="https://drive.google.com/uc?export=download&id=1OqSbmUEo-4TvIuF2snOefLXpir8Asz9i" download>
+  Download PDF
+</a>
