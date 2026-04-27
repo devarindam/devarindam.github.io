@@ -23,3 +23,10 @@ layout: page
 <a href="https://drive.google.com/uc?export=download&id=1OqSbmUEo-4TvIuF2snOefLXpir8Asz9i" download>
   Download PDF
 </a>
+
+## Automatic Wireless Health-monitoring System
+
+<a href="https://drive.google.com/uc?export=download&id=1yAAAWbdVU-CnXUyG4t25b4Wo22TfN_kh" download>
+  Download PDF
+</a>
+
