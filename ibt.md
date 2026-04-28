@@ -5,19 +5,6 @@
 
 ---
 
-## Authors
-
-| Name | Affiliation |
-|---|---|
-| João Lobato Oliveira | INESC Porto & LIACC/FEUP, Porto, Portugal |
-| Fabien Gouyon | INESC Porto, Porto, Portugal |
-| Luis Gustavo Martins | CITAR/UCP, Porto, Portugal |
-| Luis Paulo Reis | LIACC/FEUP, Porto, Portugal |
-
-Paper Link: https://ismir2010.ismir.net/proceedings/ismir2010-50.pdf
-
----
-
 ## Overview
 
 IBT is an agent-based tempo induction and beat tracking system that processes audio causally in real time. It extends the competing-agents strategy of [BeatRoot](https://code.soundsoftware.ac.uk/projects/beatroot) to support continuous, frame-based spectral flux input — making it suitable for live audio, MIR pipelines, and robotic platforms.
@@ -253,33 +240,8 @@ where `nᵢⱼ` is the nearest integer ratio between periods `Pᵢ` and `Pⱼ`.
 
 ---
 
-## License
+## Source
 
-- `beatVer1.m`, `specflux.m`, `peakpick.m` — based on work from **INESC Porto**, presented at ISMIR 2010.
-- `comp_dgt_fb.m`, `winfuns.m` — © 2013 Nicki Holighaus, part of [NSGToolbox v0.1.0](http://nsg.sourceforge.net/), licensed under [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/). `comp_dgt_fb` additionally licensed under GPL v3+.
+Paper Link: https://ismir2010.ismir.net/proceedings/ismir2010-50.pdf
 
----
 
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@inproceedings{oliveira2010ibt,
-  title     = {{IBT}: A Real-Time Tempo and Beat Tracking System},
-  author    = {Oliveira, Jo{\~a}o Lobato and Gouyon, Fabien and Martins, Luis Gustavo and Reis, Luis Paulo},
-  booktitle = {Proceedings of the 11th International Society for Music Information Retrieval Conference (ISMIR)},
-  pages     = {291--296},
-  year      = {2010}
-}
-```
-
----
-
-## References
-
-1. Dixon, S. — *Automatic extraction of tempo and beat from expressive performances.* Journal of New Music Research, 30(1):39–58, 2001.
-2. Dixon, S. — *Onset detection revisited.* Proc. DAFx, 2006.
-3. Dixon, S. — *Evaluation of the audio beat tracking system BeatRoot.* JNMR, 36(1):39–50, 2007.
-4. Gouyon, F. et al. — *An experimental comparison of audio tempo induction algorithms.* IEEE TASLP, 14(5):1832–1844, 2006.
-5. McKinney, M.F. et al. — *Evaluation of audio beat tracking and music tempo.* JNMR, 36(1):1–6, 2007.
