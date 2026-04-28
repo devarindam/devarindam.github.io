@@ -43,7 +43,7 @@ Grid Substation, Kushtia\
 3. Digital Alarm Clock (For EEE 304 : Digital Electronics Laboratory)
 4. Fault Current Analysis (For EEE 306 : Power System 1 Laboratory)
 5. Design and Simulation of a 8 Bit Computer Capable of Executing 16 Instructions Using Proteus (For EEE 315 : Microprocessor and Interfacing)
-6. [Laser Guided Robot](https://devarindam.github.io/projects.html)(For EEE 402 : Control System 1 Laboratory)
+6. [Laser Guided Robot](https://devarindam.github.io/laserguidedrobot.html)(For EEE 402 : Control System 1 Laboratory)
 7. Circuit, Layout Design and Simulation of 4 Bit ALU with Shifter Using Cadence Virtuoso (For EEE 454 : VLSI 1 Laboratory)
 8. Circuit, Layout Design and Simulation of 4 Bit Comparator with Cascadable Comparator Cells (For EEE 458: VLSI 2 Laboratory)
 9. Automatic Wireless Health-monitoring System (Heart Rate & Bodytemparature Monitoring For Remote Patients) (For EEE 426 : Biomedical Instrumentation Laboratory)
