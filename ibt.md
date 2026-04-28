@@ -1,4 +1,4 @@
-# IBT — INESC Porto Beat Tracker (MATLAB)
+# IBT — MATLAB Implementation on SP Cup 2017 Database
 
 > A real-time tempo induction and beat tracking system implemented in MATLAB.  
 > Based on: **"IBT: A Real-Time Tempo and Beat Tracking System"** — ISMIR 2010.
