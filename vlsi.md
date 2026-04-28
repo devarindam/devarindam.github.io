@@ -1,4 +1,9 @@
-# 🔲 4-Bit Comparator with Cascadable Comparator Cells
+---
+title: Projects
+layout: page
+---
+
+## 🔲 4-Bit Comparator with Cascadable Comparator Cells
 
 > **EEE458 — VLSI II | Group 11**  
 > Arindam Dev (1106040) & Md. Shamim Hussain (1106032)  
