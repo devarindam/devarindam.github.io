@@ -1,3 +1,8 @@
+---
+title: Research
+layout: page
+---
+
 # 🦾 SEMG Hand Gesture Classification for Transradial Amputees
 
 > **Classification of Hand Gestures using SEMG Signals with Force Variation for Transradial Amputees**  
