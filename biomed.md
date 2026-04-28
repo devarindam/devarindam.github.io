@@ -1,5 +1,3 @@
-# 🏥 Automatic Wireless Health-Monitoring System
-
 > **Heart Rate & Body Temperature Monitoring For Remote Patients**
 > 
 > Department of Electrical & Electronic Engineering · Bangladesh University of Engineering & Technology (BUET)
