@@ -14,7 +14,7 @@
 | Luis Gustavo Martins | CITAR/UCP, Porto, Portugal |
 | Luis Paulo Reis | LIACC/FEUP, Porto, Portugal |
 
-**Contact:** `{jmso, fgouyon}@inescporto.pt` · `lgustavomartins@gmail.com` · `lpreis@fe.up.pt`
+Paper Link: https://ismir2010.ismir.net/proceedings/ismir2010-50.pdf
 
 ---
 
