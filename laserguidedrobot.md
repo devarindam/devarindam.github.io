@@ -162,6 +162,12 @@ void loop() {
 
 -----
 
+**Supervised by:**
+
+- Md. Shafiqul Islam *(Lecturer, EEE, BUET)*
+- Zabir Ahmed *(Lecturer, EEE, BUET)*
+
+-----
 ### Demonstration
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 40px;">
   <iframe
@@ -173,7 +179,7 @@ void loop() {
   </iframe>
 </div>
 
-
+-----
 
 Report: <a href="https://drive.google.com/uc?export=download&id=1OqSbmUEo-4TvIuF2snOefLXpir8Asz9i" download>
         Download PDF
