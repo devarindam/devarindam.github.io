@@ -1,10 +1,3 @@
----
-title: Project: Laser Guided Robot
-layout: page
----
-
-
-
 ## 🤖 Laser Guided Robot
 
 > **EEE 402 — Control System Sessional · BUET · Group 03 · Level 4 Term 1**
