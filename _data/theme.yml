@@ -50,7 +50,7 @@ google_fonts:
 navigation_pages:
   - README.md
   - researchnew.md
-  - Projects
+  - projects.md
       -laserguiderobot.md
       -biomed.md
       -vlsi.md
