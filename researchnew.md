@@ -30,7 +30,7 @@ A pattern recognition based method for classifying **6 hand gestures** from surf
 
 | Property | Details |
 |---|---|
-| Source | [Khushaba EMG Repository](http://www.rami-khushaba.com/electromyogram-emg-repository) |
+| Source | [Khushaba EMG Repository](https://rami-khushaba.com/biosignals-repository) |
 | Subjects | 9 transradial amputees (TR1–TR7, CG1, CG2) |
 | Gestures | Index flexion, Thumb flexion, Fine pinch, Tripod grip, Hook grip, Spherical grip ![gesture](thesis_image.png) |
 | Force Levels | Low, Medium, High |
@@ -126,4 +126,4 @@ All features are **power-normalized** (λ = 0.2) and extracted from both raw sig
 ## 🙏 Acknowledgements
 
 Supervised by **Dr. Mohammed Imamul Hassan Bhuiyan**, Department of EEE, BUET.  
-Dataset provided by [Rami Khushaba's EMG Repository](http://www.rami-khushaba.com/electromyogram-emg-repository).
+Dataset provided by [Rami Khushaba's EMG Repository](https://rami-khushaba.com/biosignals-repository).
