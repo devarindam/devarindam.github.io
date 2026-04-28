@@ -229,25 +229,6 @@ where `nᵢⱼ` is the nearest integer ratio between periods `Pᵢ` and `Pⱼ`.
 
 ---
 
-## Performance (from ISMIR 2010 paper)
-
-### Global Tempo Estimation (a2 metric, % correct incl. metrical levels)
-
-| Condition | Ballroom | Loops | Songs | Overall |
-|---|---|---|---|---|
-| IBT causal | 83% | 73% | 73% | 76% |
-| IBT non-causal | 90% | 76% | 82% | **83%** |
-
-### Beat Tracking P-score (1:1 metrical level)
-
-| System | P-score | Excerpts |
-|---|---|---|
-| IBT causal | 74 | 558 |
-| IBT non-causal | 81 | 613 |
-| BeatRoot | 81 | 613 |
-
----
-
 ## Source
 
 [Original Paper](https://ismir2010.ismir.net/proceedings/ismir2010-50.pdf) |  [Matlab Code](https://drive.google.com/file/d/1BLVwnq7SI-Nooo_hwI19lQXTV1zw2hkY/view?usp=share_link)
