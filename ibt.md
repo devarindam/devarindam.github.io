@@ -220,12 +220,14 @@ r(n) = ⎨ 1,       5 ≤ n ≤ 8
 where `nᵢⱼ` is the nearest integer ratio between periods `Pᵢ` and `Pⱼ`.
 
 ### Child agent generation (outer window)
+
+```
 | Child | Period | Phase |
 |---|---|---|
 | C1 | `P` | `φ + P + err` (phase-only fix) |
 | C2 | `P + err` | `φ + (P+err) + err` (period + phase fix) |
 | C3 | `P + 0.5·err` | `φ + (P+0.5·err) + 0.5·err` (half-fix) |
-
+```
 ---
 
 ## Performance (from ISMIR 2010 paper)
