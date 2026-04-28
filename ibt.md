@@ -1,4 +1,11 @@
-# IBT — MATLAB Implementation on SP Cup 2017 Database
+---
+title: Projects
+layout: page
+---
+
+
+
+## IBT — MATLAB Implementation on SP Cup 2017 Database
 
 > A real-time tempo induction and beat tracking system implemented in MATLAB.  
 > Based on: **"IBT: A Real-Time Tempo and Beat Tracking System"** — ISMIR 2010.
