@@ -32,11 +32,11 @@ A pattern recognition based method for classifying **6 hand gestures** from surf
 |---|---|
 | Source | [Khushaba EMG Repository](http://www.rami-khushaba.com/electromyogram-emg-repository) |
 | Subjects | 9 transradial amputees (TR1–TR7, CG1, CG2) |
-| Gestures | Index flexion, Thumb flexion, Fine pinch, Tripod grip, Hook grip, Spherical grip |
+| Gestures | Index flexion, Thumb flexion, Fine pinch, Tripod grip, Hook grip, Spherical grip ![gesture](thesis_image.png) |
 | Force Levels | Low, Medium, High |
 | Sampling Rate | 2 kHz |
 | Channels | 8–12 per subject |
-![gesture](thesis_image.png)
+
 ---
 
 ## ⚙️ Methodology
