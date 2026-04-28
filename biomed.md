@@ -1,3 +1,9 @@
+---
+title: Projects
+layout: page
+---
+
+
 # Automatic Wireless Health Monitoring System
 
 > **Heart Rate & Body Temperature Monitoring For Remote Patients**
