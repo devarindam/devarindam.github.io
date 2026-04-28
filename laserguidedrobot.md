@@ -162,7 +162,7 @@ void loop() {
 
 -----
 
-**Supervised by:**
+## Supervised by:
 
 - Md. Shafiqul Islam *(Lecturer, EEE, BUET)*
 - Zabir Ahmed *(Lecturer, EEE, BUET)*
