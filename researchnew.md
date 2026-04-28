@@ -36,7 +36,7 @@ A pattern recognition based method for classifying **6 hand gestures** from surf
 | Force Levels | Low, Medium, High |
 | Sampling Rate | 2 kHz |
 | Channels | 8–12 per subject |
-
+![gesture](thesis_image.png)
 ---
 
 ## ⚙️ Methodology
