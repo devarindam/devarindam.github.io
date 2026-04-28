@@ -47,7 +47,7 @@ Grid Substation, Kushtia\
 7. Circuit, Layout Design and Simulation of 4 Bit ALU with Shifter Using Cadence Virtuoso (For EEE 454 : VLSI 1 Laboratory)
 8. [Circuit, Layout Design and Simulation of 4 Bit Comparator with Cascadable Comparator Cells](https://devarindam.github.io/vlsi.html) (For EEE 458: VLSI 2 Laboratory)
 9. [Automatic Wireless Health-monitoring System](https://devarindam.github.io/biomed.html) (Heart Rate & Body Temperature Monitoring For Remote Patients) (For EEE 426 : Biomedical Instrumentation Laboratory)
-10. [Real-Time Beat Tracking](https://drive.google.com/file/d/1BLVwnq7SI-Nooo_hwI19lQXTV1zw2hkY/view?usp=share_link) (Paper Implementation on IEEE SP Cup 2017 Database) 
+10. [Real-Time Beat Tracking](https://devarindam.github.io/ibt.html) (Paper Implementation on IEEE SP Cup 2017 Database) 
 
 ## Technical Skills
 &emsp;  **Programming Language**\
