@@ -162,13 +162,14 @@ void loop() {
 
 -----
 
-## Supervised by:
+## Supervised by
 
 - Md. Shafiqul Islam *(Lecturer, EEE, BUET)*
 - Zabir Ahmed *(Lecturer, EEE, BUET)*
 
 -----
-### Demonstration
+
+## Demonstration
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 40px;">
   <iframe
     src="https://www.youtube.com/embed/EHEGDKUKCOA"
