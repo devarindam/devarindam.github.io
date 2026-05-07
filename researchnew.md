@@ -3,7 +3,7 @@ title: Research
 layout: page
 ---
 
-## 🦾 SEMG Hand Gesture Classification for Transradial Amputees
+## SEMG Hand Gesture Classification for Transradial Amputees
 
 > **Classification of Hand Gestures using SEMG Signals with Force Variation for Transradial Amputees**  
 > Arindam Dev, Md. Fazle Elahi, M. M. Harun-Ur-Rashid, Dr. Mohammed Imamul Hassan Bhuiyan  
@@ -11,13 +11,13 @@ layout: page
 
 ---
 
-## 📌 Overview
+## Overview
 
 A pattern recognition based method for classifying **6 hand gestures** from surface EMG (SEMG) signals of **transradial amputees**, robust to force level variation. The method proposes a novel orientation-based feature set and a channel selection algorithm using Recursive Feature Elimination (RFE), achieving state-of-the-art accuracy with an SVM classifier.
 
 ---
 
-## 🎯 Key Contributions
+## Key Contributions
 
 - **Novel orientation-based feature set** — less sensitive to force level variation than raw features
 - **Channel selection via RFE** — reduces channels from ~12 to optimal 5, improving accuracy by **3.2%** over sequential selection
@@ -26,7 +26,7 @@ A pattern recognition based method for classifying **6 hand gestures** from surf
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 
 | Property | Details |
 |---|---|
@@ -39,7 +39,7 @@ A pattern recognition based method for classifying **6 hand gestures** from surf
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ```
 Raw SEMG Signal
@@ -83,7 +83,7 @@ All features are **power-normalized** (λ = 0.2) and extracted from both raw sig
 
 ---
 
-## 📊 Results
+## Results
 
 ### Accuracy vs Number of Channels
 
@@ -107,14 +107,14 @@ All features are **power-normalized** (λ = 0.2) and extracted from both raw sig
 
 ---
 
-## 🧪 Statistical Validation
+## Statistical Validation
 
 - **Kruskal-Wallis test** confirms features significantly discriminate gestures (p < 0.05 for all 6 features)
 - **Cohen's Kappa**: κ = 0.9447 (Low), 0.9378 (Medium), 0.8822 (High) — strong classifier agreement
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2016a-orange?logo=mathworks)
 ![SVM](https://img.shields.io/badge/Classifier-SVM%20RBF-blue)
@@ -123,7 +123,7 @@ All features are **power-normalized** (λ = 0.2) and extracted from both raw sig
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
-Supervised by **Dr. Mohammed Imamul Hassan Bhuiyan**, Department of EEE, BUET.  
+Supervised by **Dr. Mohammed Imamul Hassan Bhuiyan**, Professor, Department of EEE, BUET.  
 Dataset provided by [Rami Khushaba's EMG Repository](https://rami-khushaba.com/biosignals-repository).
