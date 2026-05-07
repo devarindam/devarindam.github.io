@@ -6,7 +6,7 @@ layout: page
 ## SEMG Hand Gesture Classification for Transradial Amputees
 
 > **Classification of Hand Gestures using SEMG Signals with Force Variation for Transradial Amputees**  
-> Arindam Dev, Md. Fazle Elahi, M. M. Harun-Ur-Rashid, Dr. Mohammed Imamul Hassan Bhuiyan  
+> Arindam Dev, Md. Fazle Elahi, M. M. Harun-Ur-Rashid 
 > *Department of EEE, Bangladesh University of Engineering and Technology (BUET)*
 
 ---
