@@ -20,7 +20,7 @@ A pattern recognition based method for classifying **6 hand gestures** from surf
 ## Key Contributions
 
 - **Novel orientation-based feature set** — less sensitive to force level variation than raw features
-- **Channel selection via RFE** — reduces channels from ~12 to optimal 5, improving accuracy by **3.2%** over sequential selection
+- **Channel selection via RFE** — reduces channels from 12 to optimal 5, improving accuracy by **3.2%** over sequential selection
 - **High accuracy at all force levels** — especially at high force where prior methods degrade significantly
 - Validated on a **public benchmark dataset** of 9 transradial amputees
 
