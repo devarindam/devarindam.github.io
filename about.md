@@ -4,5 +4,5 @@ layout: page
 actions:
   - label: "Download as PDF"
     icon: pdf
-    url: "https://drive.google.com/uc?export=download&id=1hW7vMLUoJl6U54BYdHWQPwWlB0VijtE0"
+    url: "https://drive.google.com/file/d/1ifXRT1NgxVxvchwpfKVaP2Ohvl_Akc93/view?usp=drive_link"
 ---
