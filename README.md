@@ -52,17 +52,24 @@ Grid Substation, Kushtia\
 10. [Real-Time Beat Tracking](https://devarindam.github.io/ibt.html) (Paper Implementation on IEEE SP Cup 2017 Database) 
 
 ## Technical Skills
-&emsp;  **Programming Language**\
-&emsp;  1. C/C++ &emsp;    2. Matlab   &emsp;  3. Python &emsp;    4. Verilog   &emsp; 5. Assembly &emsp; 6. Latex
 
-&emsp;  **Simulation Tool**\
-&emsp;  1. Cadence Virtuoso  &emsp;  2. Proteus  &emsp;  3. Orcad  &emsp;  4. Quartus
+   **Programming Languages**  
+1. Python 2. C/C++ 3. MATLAB 4. Verilog 5. Assembly
 
-&emsp;  **Software**\
-&emsp;  1. Microsoft Office  &emsp;  2. Microsoft Project
+   **Machine Learning & Data Analysis**  
+1. TensorFlow/Keras 2. scikit-learn 3. OpenCV 4. NumPy/pandas
 
-&emsp;  **Operating System**\
-&emsp;  1. Windows &emsp;   2. Linux  &emsp;  3. MacOs
+   **Embedded Systems & IoT**  
+1. ESP32/Arduino 2. Sensor Interfacing 3. Microcontroller Web Interfaces
+
+   **Power System Tools**  
+1. Substation Automation System (IEC 61850) 2. Protective Relay Testing 3. SCADA/HMI
+
+   **EDA & Simulation**  
+1. Cadence Virtuoso 2. Proteus 3. OrCAD 4. Quartus
+
+   **Documentation & Tools**  
+1. LaTeX 2. Git/GitHub 3. Microsoft Office & Project
 
 ## Standard Test Results
 1. **GRE:**\
