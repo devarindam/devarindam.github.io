@@ -53,22 +53,22 @@ Grid Substation, Kushtia\
 
 ## Technical Skills
 
-   **Programming Languages**  
+**Programming Languages**  
 1. Python 2. C/C++ 3. MATLAB 4. Verilog 5. Assembly
 
-   **Machine Learning & Data Analysis**  
+**Machine Learning & Data Analysis**  
 1. TensorFlow/Keras 2. scikit-learn 3. OpenCV 4. NumPy/pandas
 
-   **Embedded Systems & IoT**  
+**Embedded Systems & IoT**  
 1. ESP32/Arduino 2. Sensor Interfacing 3. Microcontroller Web Interfaces
 
-   **Power System Tools**  
+**Power System Tools**  
 1. Substation Automation System (IEC 61850) 2. Protective Relay Testing 3. SCADA/HMI
 
-   **EDA & Simulation**  
+**EDA & Simulation**  
 1. Cadence Virtuoso 2. Proteus 3. OrCAD 4. Quartus
 
-   **Documentation & Tools**  
+**Documentation & Tools**  
 1. LaTeX 2. Git/GitHub 3. Microsoft Office & Project
 
 ## Standard Test Results
