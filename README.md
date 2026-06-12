@@ -4,7 +4,7 @@ Address: [Bheramara-7040, Kushtia, Bangladesh](https://maps.app.goo.gl/MuT5hxPxb
 
 1. Machine Learning for Signal Processing and Time-Series Analysis
 2. Biomedical Signal Processing and Human-Machine Interfaces
-3. Smart Grid, Power System and Energy Management
+3. Smart Grid, Energy Management and Power System Diagnostics
 4. Embedded Systems and IoT for Sensing Applications
 
 
