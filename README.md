@@ -1,10 +1,12 @@
 Address: [Bheramara-7040, Kushtia, Bangladesh](https://maps.app.goo.gl/MuT5hxPxbWEybwtB9) | Email: [arindam.dev.ad@gmail.com](mailto:arindam.dev.ad@gmail.com) | Mobile: [+8801763774403](callto:+8801763774403)
 
-## Research Interest
-1. Digital Signal Processing
-2. Power System & Grid Network
-3. Machine Learning & Neural Network
-4. Data Analysis
+## Research Interests
+
+1. Machine Learning for Signal Processing and Time-Series Analysis
+2. Biomedical Signal Processing and Human-Machine Interfaces
+3. Smart Grid, Power System and Energy Management
+4. Embedded Systems and IoT for Sensing Applications
+
 
 ## Education
 1. **Bachelor of Science in Electrical and Electronic Engineering**\
